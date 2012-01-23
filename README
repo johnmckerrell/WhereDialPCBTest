@@ -1,0 +1,6 @@
+Basic test Arduino script for the PCB used in the WhereDial.
+
+Turns a unipolar stepper motor forwards and backwards by
+small amounts.
+
+Push-button switches toggle the state of LEDs.
